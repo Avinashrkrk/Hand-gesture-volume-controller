@@ -2,8 +2,6 @@
 
 A Python-based real-time volume control application that uses **hand gestures** captured via a webcam to adjust the system volume. This project leverages **OpenCV**, **Mediapipe**, and **PyCAW** for gesture detection and audio control.  
 
-jfagfhg
-flhajfh
 ---
 
 ## **Features**  
